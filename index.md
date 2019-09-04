@@ -14,7 +14,7 @@ title: Tiralabra
 
 ## Ohjaaja
 
-* Saska Dönges, (etunimi@cs.helsinki.fi), saskeli@IRCnet
+* Saska Dönges, (etunimi@cs.helsinki.fi?), saskeli@IRCnet
 
 ## 📅 Aikataulu
 
